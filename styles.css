@@ -1,20 +1,28 @@
 body {
-    background-color: lightblue;
+    background-color: whitesmoke;
   }
   
   h1 {
-    align-items: center;
+    align-content: center;
     color:black;
-    margin-left: 500px;
+    margin-left: 300px;
   }
   .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 25%;
+    width: 30%;
   }
   p {
       align-content: center;
-      margin: 20%;
+      margin: 10%;
       margin-top: 30px;
+  }
+  table, th, td {
+      align-content: center;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 200px;
+    height: 20px;
   }
