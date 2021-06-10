@@ -5,7 +5,25 @@ body {
   h1 {
     align-content: center;
     color:black;
-    margin-left: 300px;
+    margin-left: 500px;
+   
+  }
+  h2 {
+    align-content: center;
+    color:black;
+    margin-left: 400px;
+   
+  }
+  h3 {
+    align-content: center;
+    color:black;
+    margin-left: 400px;
+   
+  }
+  .button_center{
+      position: absolute;
+      left: 500px;
+      top: 900px;
   }
   .center {
     display: block;
@@ -17,6 +35,7 @@ body {
       align-content: center;
       margin: 10%;
       margin-top: 30px;
+      text-indent: 10%;
   }
   table, th, td {
       align-content: center;
@@ -25,4 +44,14 @@ body {
     margin-right: auto;
     width: 200px;
     height: 20px;
+  }
+  .radio{
+      align-content: center;
+      margin-left: 400px;
+      
+  }
+  .checkbox{
+      align-content: center;
+    margin-left: 400px;
+    
   }
